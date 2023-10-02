@@ -3,7 +3,7 @@
 <div>
 <h2><img src="Customer experience.png"></img>I'm currently working wich customer experience, and assisting using the system</h2>
 <h2> 💻📚 I'm Currently studying analysis and system development</h2> 
- <h2>😄 Pronouns: Her/Him</h2>
+ <h2>😄 Pronouns: He/Him</h2>
   <h2>⚡ Fun fact: I liking general knowledg, culture, devolepment, politics, stock Exchange, music </h2>
 </div>
 <hr>
