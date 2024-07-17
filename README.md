@@ -14,6 +14,8 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
+   srcset="https://camo.githubusercontent.com/d3e4d66b21c6531b2a71d1621846db4da99e0608bc7ea6b9ac9ef12d67d97a90/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6d65726b6f"
+ 
     srcset="https://github-readme-stats.vercel.app/api?username=Nuno38&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
