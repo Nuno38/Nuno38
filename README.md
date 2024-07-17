@@ -14,6 +14,8 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
+srcset="https://github-readme-stats.vercel.app/api?username=username=Nuno38&show_icons=true&theme=radical)"
+   
    srcset="https://camo.githubusercontent.com/username=Nuno38&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
  
