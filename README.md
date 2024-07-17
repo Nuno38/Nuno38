@@ -14,11 +14,6 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-   srcset="https://github-readme-stats.vercel.app/api/top-langs/Nuno38&show_icons=true" media=(https://github.com/anuraghazra/github-readme-stats)"
-   
-   srcset="https://camo.githubusercontent.com/username=Nuno38&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
- 
     srcset="https://github-readme-stats.vercel.app/api?username=Nuno38&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
@@ -30,13 +25,6 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno38&hige_progress=true"/>
 </sorce>
 </picture>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 <br>
 
