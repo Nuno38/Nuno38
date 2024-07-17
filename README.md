@@ -30,6 +30,14 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno38&hige_progress=true"/>
 </sorce>
 </picture>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 <br>
 
 <h3 style:"text-color:red">My skills</h3>
