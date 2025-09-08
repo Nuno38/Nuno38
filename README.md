@@ -39,6 +39,8 @@
   <img align="center" alt="Elias-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Elias-Mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=1948&color=21b09f">
+  <img align="center" alt="Elias-Mysql" height="30" width="40" src="https://icongr.am/simple/powerbi.svg?size=148&color=09d3c5&colored=false">
+
 
   
 
